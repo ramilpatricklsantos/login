@@ -1,0 +1,12 @@
+[
+    {
+        "name": "asd",
+        "password": "asd",
+        "type": "admin"
+    },
+    {
+        "name": "qwe",
+        "password": "qwe",
+        "type": "admin"
+    }
+]
